@@ -15,7 +15,7 @@ Like My Work?
 
 ### Talking about Personal Stuffs:
 
-- 🛠 &nbsp; I'm currently working with Vue3, Laravel, <br /> RestApi, Mysql etc.
+- 🛠 &nbsp; I'm currently working with Vue3, Laravel, RestApi, Mysql etc.
 - 📫 &nbsp; How to reach me: [dev.akshaythorat@gmail.com](mailto:dev.akshaythorat@gmail.com).
 - 📝 &nbsp; Checkout my [Resume](https://raw.githubusercontent.com/devakshaythorat/devakshaythorat/master/assets/resume.pdf).
 
