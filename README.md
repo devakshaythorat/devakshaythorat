@@ -1,4 +1,4 @@
-## Hey <img src="https://raw.githubusercontent.com/rajdevkar/rajdevkar/master/assets/Hi.gif" width="30px">, I'm [Akshay Thorat!](https://github.com/devakshaythorat)
+## Hey <img src="https://raw.githubusercontent.com/devakshaythorat/devakshaythorat/master/assets/Hi.gif" width="30px">, I'm [Akshay Thorat!](https://github.com/devakshaythorat)
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/dev-akshaythorat)
 [![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://akshaythorat.dev/)
